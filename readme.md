@@ -54,3 +54,6 @@ func main() {
 ## License
 
 -This package is released under the MIT License.
+
+
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/raydcode/easy-json)](https://pkg.go.dev/github.com/raydcode/easy-json)
