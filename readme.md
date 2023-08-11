@@ -53,7 +53,7 @@ func main() {
 
 ## License
 
--This package is released under the MIT License.
+-This package is released under the MIT License. See the LICENSE file for details on (https://github.com/raydcode/LICENSE.txt)
 
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/raydcode/easy-json)](https://pkg.go.dev/github.com/raydcode/easy-json)
